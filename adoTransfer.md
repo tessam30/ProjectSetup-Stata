@@ -6,11 +6,7 @@ _Set working directory_
 ```cd "U:/Stata/"```
 
 _Store .ado list in a .pkl (package list file) file in the working directory_  
-```
-adolist store TimAdoPC
-```
+```adolist store TimAdoPC```
 
 _Copy the .pkl to new machine and run_  
-```
-adolist install C:\temp\TimAdoPC
-```
+```adolist install C:\temp\TimAdoPC```
