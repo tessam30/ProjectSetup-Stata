@@ -1,4 +1,4 @@
-ProjectSetup-Stata
+#### ProjectSetup-Stata
 ==================
 
 Code for creating and managing a new Stata project. The code found in this repository can be used to setup a Stata project.  When executed, the code will do the following:
