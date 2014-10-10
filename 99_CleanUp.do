@@ -35,3 +35,5 @@ foreach x of local maclist {
 	}
 }
 *end
+
+TODO: Only walks one directory deep. Need to revise to walk down sub-folders as well (use python?)
