@@ -11,6 +11,6 @@ _Store .ado list in a .pkl (package list file) file in the working directory_
 _Copy the .pkl to new machine and run_  
 ```adolist install C:\temp\TimAdoPC```
 
-_For help with the command type the following in your Stata command prompt._
+_For help with the command type the following in your Stata command prompt._  
 ```help adolist```
 
