@@ -1,6 +1,6 @@
 /*-------------------------------------------------------------------------------
 # Name:		00_SetupFolderGlobals
-# Purpose:	Create series of folders for a project
+# Purpose:	Create series of folders and global macros for a project
 # Author:	Tim Essam, Ph.D.
 # Created:	10/10/2014
 # Owner:	USAID GeoCenter | OakStream Systems, LLC
