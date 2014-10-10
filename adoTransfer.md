@@ -8,6 +8,9 @@ _Set working directory_
 _Store .ado list in a .pkl (package list file) file in the working directory_  
 ```adolist store TimAdoPC```
 
+This should generate a linked response in the Stata window. Clicking on the like yields something like:
+<p><img src = "https://cloud.githubusercontent.com/assets/5873344/4596248/96e08670-50a1-11e4-882b-9392822e1031.PNG"></p>
+
 _Copy the .pkl to new machine and run_  
 ```adolist install C:\temp\TimAdoPC```
 
